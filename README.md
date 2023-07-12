@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joseph Ochego</h1>
+<h1 align="center">Hello there 👋, I am Joseph Ochego</h1>
 <h3 align="center">I am a Mechanical Engineer👷, with an enourmous passion for tech🖥️ and development👨‍💻.</h3>
 
 <p align="left"> <a href="https://twitter.com/i_am_ochego" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_ochego?logo=twitter&style=for-the-badge" alt="i_am_ochego" /></a> </p>
