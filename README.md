@@ -13,7 +13,7 @@
 
 - 📫 You can reach me through **ochegoatwork@gmail.com**
 
-- ⚡ Fun fact **I was in a band.🥁**
+- ⚡ Fun fact - **I was in a band.🥁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
