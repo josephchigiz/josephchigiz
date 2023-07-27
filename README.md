@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I was in a band.🥁**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephchigiz&theme=dark" alt="josephchigiz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephchigiz&theme=dark" alt="josephchigiz" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
