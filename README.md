@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS technologies, Python and JavaScript languages, and Bootstrap and Tailwind-CSS frameworks**
 
-- 👨‍💻 My platforms so far are available at [https://github.com/josephchigiz?tab=repositories](https://github.com/josephchigiz?tab=repositories)
+- 👨‍💻 My project so far are available at [https://github.com/josephchigiz?tab=repositories](https://github.com/josephchigiz?tab=repositories)
 
 - 💬 Ask me about **CSS(Responsive layouts), HTML, Python Essentials and Figma**
 
