@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephchigiz&theme=dark&" alt="josephchigiz" /></p>
 
-<p align="letter"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephchigiz&margin-w=15&column=-1&theme=darkhub&no-frame=true&no-bg=true" alt="josephchigiz" /></a> </p>
+<p align="letter"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephchigiz&margin-w=15&column=-1&theme=darkhub&no-frame=false&no-bg=true" alt="josephchigiz" /></a> </p>
 
