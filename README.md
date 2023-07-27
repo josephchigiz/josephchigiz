@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/i_am_ochego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_ochego" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joseph-ochego-7ab83b1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-ochego-7ab83b1b2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/i_am_ochego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="i_am_ochego" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22256028/i_am_ochego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="i_am_ochego" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100013312147033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joseph ochego" height="30" width="40" /></a>
 <a href="https://instagram.com/joe__graphic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe__graphic" height="30" width="40" /></a>
 </p>
