@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋🏽, Joseph Ochego</h1>
 <h3 align="center">I am a Mechanical Engineer👷, with an enourmous passion for tech🖥️ and development👨‍💻.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephchigiz" alt="josephchigiz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/i_am_ochego" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_ochego?logo=twitter&style=for-the-badge" alt="i_am_ochego" /></a> </p>
 
 - 🔭 I’m currently working on [the Intro to Software Engineering course by ALX](https://alxintrotoswe.com/)
@@ -16,6 +14,9 @@
 - 📫 You can reach me through **ochegoatwork@gmail.com**
 
 - ⚡ Fun fact **I was in a band.🥁**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephchigiz&theme=dark" alt="josephchigiz" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
