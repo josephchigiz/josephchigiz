@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_ochego" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_ochego?logo=twitter&style=for-the-badge" alt="i_am_ochego" /></a> </p>
 
-- 🔭 I’m currently working on [the Intro to Software Engineering course by ALX](https://alxintrotoswe.com/)
+- 🔭 I’m started my journey into tech on [the Intro to Software Engineering course by ALX](https://alxintrotoswe.com/)
 
 - 🌱 I’m currently learning **HTML, CSS technologies, Python and JavaScript languages, and Bootstrap and Tailwind-CSS frameworks**
 
