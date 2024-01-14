@@ -30,8 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephchigiz&theme=dark&show_icons=true&locale=en&layout=compact" alt="josephchigiz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephchigiz&theme=dark&show_icons=true&locale=en" alt="josephchigiz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephchigiz&theme=dark&" alt="josephchigiz" /></p>
-
-
-
