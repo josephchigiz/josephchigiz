@@ -5,7 +5,7 @@
 
 - 🔭 I’m started my journey into tech on [the Intro to Software Engineering course by ALX](https://alxintrotoswe.com/)
 
-- 🌱 I’m currently learning **HTML, CSS technologies, Python and JavaScript languages, and Bootstrap and Tailwind-CSS frameworks**
+- 🌱 I’m currently learning **HTML, CSS technologies, Python(AI & ML) and JavaScript languages, and Bootstrap and Tailwind-CSS frameworks**
 
 - 👨‍💻 My project so far are available at [https://github.com/josephchigiz?tab=repositories](https://github.com/josephchigiz?tab=repositories)
 
