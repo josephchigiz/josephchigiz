@@ -5,11 +5,11 @@
 
 - 🔭 I’m started my journey into tech on [the Intro to Software Engineering course by ALX](https://alxintrotoswe.com/)
 
-- 🌱 I’m currently learning **HTML, CSS technologies, Python(AI & ML) and JavaScript languages, and Bootstrap and Tailwind-CSS frameworks**
+- 🌱 I’m currently learning **JavaScript and Bootstrap and Tailwind-CSS frameworks**
 
 - 👨‍💻 My project so far are available at [https://github.com/josephchigiz?tab=repositories](https://github.com/josephchigiz?tab=repositories)
 
-- 💬 Ask me about **CSS(Responsive layouts), HTML, Python Essentials and Figma**
+- 💬 Ask me about **CSS(Responsive layouts), HTML, JavaScript, Python Essentials and Figma**
 
 - 📫 You can reach me through **ochegoatwork@gmail.com**
 
