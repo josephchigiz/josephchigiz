@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_ochego" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_ochego?logo=twitter&style=for-the-badge" alt="i_am_ochego" /></a> </p>
 
-- 🔭 I’m started my journey into tech on [the Intro to Software Engineering course by ALX](https://alxintrotoswe.com/)
+- 🔭 I started my journey into tech on [the Intro to Software Engineering course by ALX](https://alxintrotoswe.com/)
 
-- 🌱 I’m currently learning **JavaScript and Bootstrap and Tailwind-CSS frameworks**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 My project so far are available at [https://github.com/josephchigiz?tab=repositories](https://github.com/josephchigiz?tab=repositories)
 
